@@ -6,4 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  name = 'This is the Starter Template for Projects.  I\'m in the app component';
 }
